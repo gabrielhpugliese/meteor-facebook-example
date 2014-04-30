@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "stylus-latest": {},
+    "iron-router": {},
+    "facebook-sdk": {},
+    "bootstrap-3": {}
+  }
+}
